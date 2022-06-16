@@ -1,0 +1,13 @@
+.parent{
+    background-color: rgb(98, 161, 232);
+    position: relative;
+}
+.one{
+    background-color: rgb(150, 143, 143);
+}
+.two{
+    background-color: rgb(156, 240, 237);
+}
+.three{
+    background-color: rgb(150, 143, 143);
+}
